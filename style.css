@@ -1,0 +1,43 @@
+h1 {color: green;}
+
+body {
+    padding: 0 .6em;
+	font-family: 'Franklin Gothic Medium', sans-serif;
+    background-color: black;}
+
+
+
+#fond_texte{
+    width: 1200px;
+    margin:0 auto;
+    background-color: lightpink;
+    font-family: 'Cursive', 'Trebuchet MS', 'Comic Sans MS', 'Helvetica' sans-serif ;
+    text-align: center;
+    align-content: center;}
+
+#date-maj {font-style: .color white;}
+
+td {border: 2px solid black;}
+
+table {border-collapse: collapse;
+        border: 2px solid black ;}
+
+tr {border: 2px solid black}
+
+th {border: 2px solid black}
+
+
+
+/* --------TABLE-----------*/
+
+#table-club{
+    color :white
+    border-top: 1px solid rgb(155, 45, 136);
+	border-bottom: 1px solid rgb(155, 45, 136);
+
+}
+.rwd-table{
+    style: white;
+    border-top: 1px solid rgb(155, 45, 136);
+	border-bottom: 1px solid rgb(155, 45, 136);
+}
